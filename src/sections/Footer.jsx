@@ -36,7 +36,7 @@ const Footer = () => {
         <p className="text-center">
           Made with ❤️ by{" "}
           <a
-            href="https://github.com/ankitsingh1421"
+            href="https://github.com/ankitsingh1421/modern-landing-page"
             target="_blank"
             rel="noopener noreferrer"
             className="transition-all duration-300 hover:text-p1 underline"
